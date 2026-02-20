@@ -1,5 +1,4 @@
-*Hey, I'm Akash Howly
+_Hey, I'm Akash Howly_ 👋
 
-Trying to be a software developer but can't
-Still figuring it out.*
-
+_want to be a Software Developer but can't  
+Learning, Trying to build & Figuring it out_
