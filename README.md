@@ -1,4 +1,3 @@
-*Hey,  I'm  Akash  Howly* 👋
+*Hey,  I'm  Akash* 👋
 
-*trying  to  be  a  Software  Developer...  
-Learning  &  Figuring  it  out :)*
+
